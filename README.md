@@ -18,12 +18,13 @@ It alos tries to measure distance you cover daily using a podometer (This is not
 <img src="images/8.jpeg" height=300px></img>
 <img src="images/9.jpeg" height=300px></img>
 
-This app is still not complete but it can be used
+This app is still not complete but it can be used    
+
+
+Thanks to spoonacular.com for such good food api
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-Thanks to spoonacular.com for such good food api
 
 A few resources to get you started if this is your first Flutter project:
 
